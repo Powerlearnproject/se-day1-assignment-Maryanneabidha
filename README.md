@@ -9,6 +9,7 @@ it is the process of designing, building, testing, and maintaining software appl
 it is important in the technology industry as it allows for innovative solutions to problems and it also increases efficiency and productivity to the industry.
 it is essentially one of the foundations for the growthh in the technology industry.
 
+
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 The Advent of High-Level Programming Languages (1950s-1960s):
@@ -19,6 +20,7 @@ Structured programming emerged as a methodology that emphasized the use of clear
 
 The Rise of Agile Methodologies (1990s-Present):
 The Agile movement transformed software engineering by introducing iterative and incremental development practices that prioritize collaboration, flexibility, and customer satisfaction. The Agile Manifesto, published in 2001, outlined values and principles that focus on delivering working software quickly, responding to changing requirements, and fostering close communication between developers and stakeholders. Agile methodologies like Scrum, Kanban, and Extreme Programming (XP) have become widely adopted, enabling teams to adapt to changing circumstances and deliver high-quality software more efficiently.
+
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
@@ -64,6 +66,7 @@ Objective: Keep the software updated and functional.
 
 Activities: Monitor the software for issues, provide support, and implement updates, patches, and enhancements.
 
+
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 In terms of structure and flexibility waterfall is linear and sequential, meaning each phase must be completed before moving on to the next, with little room for changes while Agile is iterative and incremental, allowing for continuous adjustments and improvements throughout the development process.
 
@@ -72,6 +75,7 @@ Government projects which often have well-defined requirements and regulatory co
 Developing mobile apps may involve frequent updates and new features based on user feedback. Agile's focus on continuous improvement and quick delivery makes it ideal for this type of project.
 
 Waterfall methodology Emphasizes on comprehensive documentation at each phase.Detailed requirements and design documents are created upfront with less focus on frequent communication once the project is underway unlike agile that prioritizes face-to-face communication and collaboration.Documentation is kept to a minimum and is more flexible.Encourages regular meetings (e.g., daily stand-ups, sprint reviews) for continuous feedback.
+
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
@@ -117,6 +121,7 @@ Communication: Acts as the primary point of contact for all project-related comm
 
 Quality Assurance: Ensures that the project deliverables meet the required quality standards and are completed on time and within budget.
 
+
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 Integrated Development Environments (IDEs) are software applications that provide comprehensive tools and features to aid developers in writing, testing, and debugging code. IDEs significantly enhance productivity and efficiency in the software development process by offering a unified environment with various functionalities integrated into one platform for example the Visual Studio: A powerful IDE from Microsoft, widely used for developing Windows applications, web applications, and more.
@@ -135,6 +140,7 @@ Meeting Deadlines and Managing Time: Balancing multiple tasks and meeting deadli
 Debugging and Troubleshooting: Identifying and fixing complex issues can be time-consuming.
 
 Communication and Collaboration: Effective teamwork, especially in remote settings, can be difficult.
+
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
@@ -175,6 +181,7 @@ Provides context for relevant and appropriate responses.
 Leads to accurate and useful responses.
 
 Reduces the need for follow-up clarifications, saving time.
+
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Tell me something about space."
